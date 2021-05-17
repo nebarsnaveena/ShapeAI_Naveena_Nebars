@@ -1,5 +1,3 @@
-
-
 # SHAPEAI PYTHON AND DEEP LEARNING BOOTCAMP
 
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
@@ -51,3 +49,6 @@ be</a>
 <li><a href=
 
 "https://github.com/shapeai">GitHub</a>
+
+
+
